@@ -1,2 +1,2 @@
 # new-repo
-this is just a show off for github repo....don't sweat.
+this is the head / home section of the university design.
